@@ -88,7 +88,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Power BI and Tableau
 - SAP Analytics
 
-<details markdown="1"><summary><strong>Business and operations</strong></summary>
+<details markdown="2"><summary><strong>Business and operations</strong></summary>
 
 - Procurement and supplier management
 - Vendor onboarding and performance monitoring
@@ -97,8 +97,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Operational analysis
 - Background verification operations
 
-<details markdown="2">
-<summary><strong>Customer experience and leadership</strong></summary>
+<details markdown="3"><summary><strong>Customer experience and leadership</strong></summary>
 
 - Customer service and customer experience
 - Customer dissatisfaction (DSAT) analysis
