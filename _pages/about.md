@@ -148,6 +148,7 @@ Sault College, Toronto, Canada
 | Hindi | Fluent |
 | Malayalam | Fluent |
 | French | Beginner |
+
 </details>
 
 ---
