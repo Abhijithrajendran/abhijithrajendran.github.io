@@ -6,7 +6,8 @@ permalink: /about/
 author_profile: true
 ---
 
-## A little about me
+<details markdown="1">
+<summary><strong>## A little about me</strong></summary>
 
 I'm just a **happy person**. That's honestly the most accurate thing I can tell you about myself.
 
@@ -19,7 +20,7 @@ Professionally, I'm interested in the intersection of **business, people, operat
 Here's a little more about the person behind the page.
 
 <details markdown="1">
-<summary><strong>My story — the longer version</strong></summary>
+<summary><strong>My story - the longer version</strong></summary>
 
 ### The professional journey
 
@@ -47,7 +48,7 @@ So I moved to Toronto, completed a business management course, and here I am —
 
 ### Outside of work
 
-When I'm not buried in work, I'm usually reading — mostly fiction.
+When I'm not buried in work, I'm usually reading - mostly fiction.
 
 I used to be a heavy non-fiction reader until it dawned on me that fiction is actually where the real truth lives. Between the lines, in the things characters don't say, and in the little details that reveal more than entire chapters of explanation.
 
@@ -77,7 +78,8 @@ I think we'd get along!
 
 I enjoy work that brings together analytical thinking, practical problem-solving and an understanding of people.
 
-### Data, analysis and reporting
+<details markdown="1">
+<summary><strong>### Data, analysis and reporting</strong></summary>
 
 - Data analysis and interpretation
 - Procurement spend and inventory analysis
@@ -88,7 +90,8 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Power BI and Tableau
 - SAP Analytics
 
-### Business and operations
+<details markdown="1">
+<summary><strong>### Business and operations</strong></summary>
 
 - Procurement and supplier management
 - Vendor onboarding and performance monitoring
@@ -97,7 +100,8 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Operational analysis
 - Background verification operations
 
-### Customer experience and leadership
+<details markdown="1">
+<summary><strong>### Customer experience and leadership</strong></summary>
 
 - Customer service and customer experience
 - Customer dissatisfaction (DSAT) analysis
@@ -107,7 +111,8 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Training and process communication
 - Cross-geography team coordination
 
-### CRM and business tools
+<details markdown="1">
+<summary><strong>### CRM and business tools</strong></summary>
 
 - Odoo CRM
 - Microsoft Excel
@@ -118,17 +123,19 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 
 ---
 
-## Education
+<details markdown="1">
+<summary><strong>## Education</strong></summary>
 
 **Bachelor of Technology — Mechanical Engineering**  
 Jawaharlal Nehru Technological University
 
 **Business Management Course**  
-Toronto, Canada
+Sault College, Toronto, Canada
 
 ---
 
-## Languages
+<details markdown="1">
+<summary><strong>## Languages</strong></summary>
 
 | Language | Proficiency |
 |:--|:--|
@@ -140,7 +147,8 @@ Toronto, Canada
 
 ---
 
-## A few things I enjoy
+<details markdown="1">
+<summary><strong>## A few things I enjoy</strong></summary>
 
 - **Reading:** Fiction, essays and stories that stay with you.
 - **Writing:** Essays, fiction and journal entries.
