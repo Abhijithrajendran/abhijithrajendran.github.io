@@ -17,9 +17,9 @@ It's a little like our guy Santiago from Hemingway's *The Old Man and the Sea*. 
 
 Professionally, I'm interested in the intersection of **business, people, operations and data**. I enjoy looking at a problem, figuring out what's really happening beneath the surface, and finding a way to make things work better.
 
-</details>
-
 Here's a little more about the person behind the page.
+
+</details>
 
 <details markdown="1">
 <summary><strong>My story - the longer version</strong></summary>
