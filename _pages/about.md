@@ -87,8 +87,9 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - SQL
 - Power BI and Tableau
 - SAP Analytics
+</details>
 
-<details markdown="2"><summary><strong>Business and operations</strong></summary>
+<details markdown="1"><summary><strong>Business and operations</strong></summary>
 
 - Procurement and supplier management
 - Vendor onboarding and performance monitoring
@@ -96,8 +97,9 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Workflow design and process improvement
 - Operational analysis
 - Background verification operations
+</details>
 
-<details markdown="3"><summary><strong>Customer experience and leadership</strong></summary>
+<details markdown="1"><summary><strong>Customer experience and leadership</strong></summary>
 
 - Customer service and customer experience
 - Customer dissatisfaction (DSAT) analysis
@@ -106,6 +108,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - KPI development and monitoring
 - Training and process communication
 - Cross-geography team coordination
+</details>
 
 <details markdown="1">
 <summary><strong>CRM and business tools</strong></summary>
@@ -116,7 +119,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Tableau
 - SQL
 - SAP Analytics
-
+</details>
 ---
 
 <details markdown="1">
@@ -127,7 +130,7 @@ Jawaharlal Nehru Technological University
 
 **Business Management Course**  
 Sault College, Toronto, Canada
-
+</details>
 ---
 
 <details markdown="1">
@@ -140,7 +143,7 @@ Sault College, Toronto, Canada
 | Hindi | Fluent |
 | Malayalam | Fluent |
 | French | Beginner |
-
+</details>
 ---
 
 <details markdown="1">
@@ -151,5 +154,6 @@ Sault College, Toronto, Canada
 - **Fitness:** Bodybuilding and building a stronger, healthier version of myself.
 - **Chess:** Strategy, patience and learning to think a few moves ahead.
 - **Music:** Learning to play the guitar.
+</details>
 - **Languages:** Learning French and exploring the world through language.
 - **Learning:** Data, technology, business, people and pretty much anything that makes me curious.
