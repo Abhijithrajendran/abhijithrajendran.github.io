@@ -17,14 +17,25 @@ classes: wide
 
 <details>
   <summary>
-    <strong>October 2026</strong> — 1
+    <strong>October 2026</strong> — 3
   </summary>
 
   <ol>
+    <li>
+       <strong>Ghachar Ghochar</strong>
+      <br>Vivek Shanbhag
+      <br><em>Fiction · Psychological drama · Novella</em>
+    </li>
+    <li>
+       <strong>Ghost-eye</strong>
+      <br>Amitav Ghosh
+      <br><em>Fiction · Magical Realism · Climate Fiction</em>
+    </li>
     <li>
       <strong>I Who Have Never Known Men</strong>
       <br>Jacqueline Harpman
       <br><em>Fiction · Dystopian Fiction · Feminist Literature · Speculative Fiction </em>
     </li>
     <li>
+    
       
