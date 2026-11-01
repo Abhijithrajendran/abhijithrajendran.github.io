@@ -6,8 +6,7 @@ permalink: /about/
 author_profile: true
 ---
 
-<details markdown="1">
-<summary><strong>## A little about me</strong></summary>
+## A little about me
 
 I'm just a **happy person**. That's honestly the most accurate thing I can tell you about myself.
 
@@ -78,8 +77,7 @@ I think we'd get along!
 
 I enjoy work that brings together analytical thinking, practical problem-solving and an understanding of people.
 
-<details markdown="1">
-<summary><strong>### Data, analysis and reporting</strong></summary>
+<summary><strong>Data, analysis and reporting</strong></summary>
 
 - Data analysis and interpretation
 - Procurement spend and inventory analysis
