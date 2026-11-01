@@ -88,7 +88,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Power BI and Tableau
 - SAP Analytics
 
-<summary><strong>Business and operations</strong></summary>
+<details markdown="1"><summary><strong>Business and operations</strong></summary>
 
 - Procurement and supplier management
 - Vendor onboarding and performance monitoring
