@@ -6,7 +6,8 @@ permalink: /about/
 author_profile: true
 ---
 
-## A little about me
+<details markdown="1">
+<summary><strong>A little about me</strong></summary>
 
 I'm just a **happy person**. That's honestly the most accurate thing I can tell you about myself.
 
@@ -15,6 +16,8 @@ I look for the green and colourful parts of life, even when things get messy. An
 It's a little like our guy Santiago from Hemingway's *The Old Man and the Sea*. I'm aspirational like that. I have this glorious delusion that things will work out eventually. Big dreams, for myself and, honestly, for the world too.
 
 Professionally, I'm interested in the intersection of **business, people, operations and data**. I enjoy looking at a problem, figuring out what's really happening beneath the surface, and finding a way to make things work better.
+
+</details>
 
 Here's a little more about the person behind the page.
 
