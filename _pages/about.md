@@ -120,6 +120,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - SQL
 - SAP Analytics
 </details>
+
 ---
 
 <details markdown="1">
@@ -131,6 +132,7 @@ Jawaharlal Nehru Technological University
 **Business Management Course**  
 Sault College, Toronto, Canada
 </details>
+
 ---
 
 <details markdown="1">
@@ -144,6 +146,7 @@ Sault College, Toronto, Canada
 | Malayalam | Fluent |
 | French | Beginner |
 </details>
+
 ---
 
 <details markdown="1">
@@ -154,6 +157,6 @@ Sault College, Toronto, Canada
 - **Fitness:** Bodybuilding and building a stronger, healthier version of myself.
 - **Chess:** Strategy, patience and learning to think a few moves ahead.
 - **Music:** Learning to play the guitar.
-</details>
 - **Languages:** Learning French and exploring the world through language.
 - **Learning:** Data, technology, business, people and pretty much anything that makes me curious.
+</details>
