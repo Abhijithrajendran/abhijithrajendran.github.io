@@ -97,7 +97,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Operational analysis
 - Background verification operations
 
-<details markdown="1">
+<details markdown="2">
 <summary><strong>Customer experience and leadership</strong></summary>
 
 - Customer service and customer experience
