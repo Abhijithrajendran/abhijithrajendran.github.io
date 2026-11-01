@@ -17,7 +17,7 @@ classes: wide
 
 <details>
   <summary>
-    <strong>October 2026</strong> — 3
+    <strong>October 2026</strong> - 3
   </summary>
 
   <ol>
@@ -37,5 +37,3 @@ classes: wide
       <br><em>Fiction · Dystopian Fiction · Feminist Literature · Speculative Fiction </em>
     </li>
     <li>
-    
-      
