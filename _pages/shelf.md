@@ -17,13 +17,13 @@ classes: wide
 
 <details>
   <summary>
-    <strong>October 2026</strong> — 1 book1
+    <strong>October 2026</strong> — 1
   </summary>
 
   <ol>
     <li>
-      <strong>**I Who Have Never Known Men**</strong>
-      <br>*Jacqueline Harpman*
+      <strong>I Who Have Never Known Men</strong>
+      <br>Jacqueline Harpman
       <br><em>Fiction · Dystopian Fiction · Feminist Literature · Speculative Fiction </em>
     </li>
     <li>
