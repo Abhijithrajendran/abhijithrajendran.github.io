@@ -92,6 +92,8 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - SAP Analytics
 </details>
 
+---
+
 <details markdown="1"><summary><strong>Business and operations</strong></summary>
 
 - Procurement and supplier management
@@ -101,6 +103,8 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Operational analysis
 - Background verification operations
 </details>
+
+---
 
 <details markdown="1"><summary><strong>Customer experience and leadership</strong></summary>
 
@@ -112,6 +116,8 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Training and process communication
 - Cross-geography team coordination
 </details>
+
+---
 
 <details markdown="1">
 <summary><strong>CRM and business tools</strong></summary>
