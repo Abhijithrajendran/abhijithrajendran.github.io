@@ -77,7 +77,7 @@ I think we'd get along!
 
 I enjoy work that brings together analytical thinking, practical problem-solving and an understanding of people.
 
-<summary><strong>Data, analysis and reporting</strong></summary>
+<details markdown="1"><summary><strong>Data, analysis and reporting</strong></summary>
 
 - Data analysis and interpretation
 - Procurement spend and inventory analysis
