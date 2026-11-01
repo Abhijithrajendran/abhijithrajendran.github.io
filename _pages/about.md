@@ -83,13 +83,13 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Procurement spend and inventory analysis
 - Dashboard development and reporting
 - KPI monitoring and performance analysis
-- Excel — PivotTables, VLOOKUP and data handling
+- Excel - PivotTables, VLOOKUP and data handling
 - SQL
 - Power BI and Tableau
 - SAP Analytics
 
 <details markdown="1">
-<summary><strong>### Business and operations</strong></summary>
+<summary><strong>Business and operations</strong></summary>
 
 - Procurement and supplier management
 - Vendor onboarding and performance monitoring
@@ -99,7 +99,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Background verification operations
 
 <details markdown="1">
-<summary><strong>### Customer experience and leadership</strong></summary>
+<summary><strong>Customer experience and leadership</strong></summary>
 
 - Customer service and customer experience
 - Customer dissatisfaction (DSAT) analysis
@@ -110,9 +110,9 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 - Cross-geography team coordination
 
 <details markdown="1">
-<summary><strong>### CRM and business tools</strong></summary>
+<summary><strong>CRM and business tools</strong></summary>
 
-- Odoo CRM
+- CRM - Salesforce, Odoo, Evergent
 - Microsoft Excel
 - Power BI
 - Tableau
@@ -122,7 +122,7 @@ I enjoy work that brings together analytical thinking, practical problem-solving
 ---
 
 <details markdown="1">
-<summary><strong>## Education</strong></summary>
+<summary><strong>Education</strong></summary>
 
 **Bachelor of Technology — Mechanical Engineering**  
 Jawaharlal Nehru Technological University
@@ -133,7 +133,7 @@ Sault College, Toronto, Canada
 ---
 
 <details markdown="1">
-<summary><strong>## Languages</strong></summary>
+<summary><strong>Languages</strong></summary>
 
 | Language | Proficiency |
 |:--|:--|
@@ -146,7 +146,7 @@ Sault College, Toronto, Canada
 ---
 
 <details markdown="1">
-<summary><strong>## A few things I enjoy</strong></summary>
+<summary><strong>A few things I enjoy</strong></summary>
 
 - **Reading:** Fiction, essays and stories that stay with you.
 - **Writing:** Essays, fiction and journal entries.
