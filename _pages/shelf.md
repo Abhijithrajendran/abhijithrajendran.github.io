@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My Shelf"
+title: "Book Recommendations"
 permalink: /shelf/
 author_profile: true
 classes: wide
