@@ -5,6 +5,10 @@ title: "About me"
 permalink: /about/
 author_profile: true
 ---
+
+<details markdown="1">
+  <summary><strong>About me — TL;DR</strong></summary>
+  
 I'm just a **happy person**. That's honestly the most accurate thing I can tell you about myself. I look for the green and colorful parts of life, even when things get messy, and they do get messy...! I fall. I fail. But I have this thing where I refuse to stay down, not because I'm stubborn, but because I genuinely believe things work out if you keep going. It's like our guy Santiago from Hemingway's _The Old Man and the Sea_.I'm aspirational like that. I have this glorious delusion that things will work out for me eventually..Big dreams, for myself and honestly, actually for the world too.
 
 
@@ -16,3 +20,5 @@ When I'm not buried in work, I'm reading: mostly fiction. I used to be a heavy n
 
 
 **If you value curiosity, warmth, empathy, and you're compassionate and someone who genuinely gives a damn, you should reach out. I think we'd get along!**
+
+</details>
