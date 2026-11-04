@@ -9,6 +9,8 @@ author_profile: true
 <details markdown="1">
 <summary><strong>A little about me</strong></summary>
 
+My name is Abhijith Rajendran. I was born in Kerala, but moved to Hyderabad when I was just 6 months old and spent most of my life growing up there, now working in Toronto, Canada.
+
 I'm just a **happy person**. That's honestly the most accurate thing I can tell you about myself.
 
 I look for the green and colourful parts of life, even when things get messy. And they do get messy. I fall. I fail. But I have this thing where I refuse to stay down, not because I'm stubborn, but because I genuinely believe things work out if you keep going.
