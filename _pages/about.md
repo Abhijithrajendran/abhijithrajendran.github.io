@@ -145,6 +145,7 @@ Sault College, Toronto, Canada
 
 **Diploma in International Trade**
 FITT (Forum for International Trade Training)
+
 </details>
 
 ---
