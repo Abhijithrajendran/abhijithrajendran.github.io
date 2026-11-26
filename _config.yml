@@ -20,7 +20,7 @@ direction                : # "ltr" (default), "rtl" # set the direction of the p
 title                    : "ThinkingInRows"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abhijith Rajendran"
+name                     : "Abhijith P"
 description              : "Business Intelligence Analyst"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -135,7 +135,7 @@ author:
       icon: "fas fa-fw fa-chess"
       url: "https://lichess.org/@/Mostlystardust_24"
     - label: "Letterboxd"
-      icon: "fas fa-fw fa-films"
+      icon: "fas fa-fw fa-film"
       url: "https://letterboxd.com/mostlystardust/"
     - label: "Blog"
       icon: "fab fa-fw fa-blogger"
