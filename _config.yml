@@ -135,8 +135,11 @@ author:
       icon: "fas fa-fw fa-chess"
       url: "https://lichess.org/@/Mostlystardust_24"
       - label: "Letterboxd"
-      icon: "fas fa-fw fa-Letterboxd"
+      icon: "fas fa-fw fa-films"
       url: "https://letterboxd.com/mostlystardust/"
+      - label: "Blog"
+      icon: "fab fa-fw fa-blogger"
+      url: "https://avialandpoutine.blogspot.com/"
 
 # Site Footer
 footer:
@@ -154,8 +157,11 @@ footer:
       icon: "fas fa-fw fa-chess"
       url: "https://lichess.org/@/Mostlystardust_24"
       - label: "Letterboxd"
-      icon: "fas fa-fw fa-Letterboxd"
+      icon: "fas fa-fw fa-films"
       url: "https://letterboxd.com/mostlystardust/"
+      - label: "Blog"
+      icon: "fab fa-fw fa-blogger"
+      url: "https://avialandpoutine.blogspot.com/"
   since: "2013"
 
 
