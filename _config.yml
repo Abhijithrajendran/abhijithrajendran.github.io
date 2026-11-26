@@ -117,7 +117,7 @@ author:
   name             : "Abhijith Rajendran"
   avatar           : "/assets/images/bio-photo.png"
   bio              : >-
-                      8+ years in Customer Experience & Operations, Technical Support, Data-Driven Problem Solving, Process Improvement, Team Leadership
+                      Well, I figure things out! 🤷‍♂️
   location         : "Toronto, Canada"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -134,10 +134,10 @@ author:
     - label: "Lichess"
       icon: "fas fa-fw fa-chess"
       url: "https://lichess.org/@/Mostlystardust_24"
-      - label: "Letterboxd"
+    - label: "Letterboxd"
       icon: "fas fa-fw fa-films"
       url: "https://letterboxd.com/mostlystardust/"
-      - label: "Blog"
+    - label: "Blog"
       icon: "fab fa-fw fa-blogger"
       url: "https://avialandpoutine.blogspot.com/"
 
@@ -156,10 +156,10 @@ footer:
     - label: "Lichess"
       icon: "fas fa-fw fa-chess"
       url: "https://lichess.org/@/Mostlystardust_24"
-      - label: "Letterboxd"
+    - label: "Letterboxd"
       icon: "fas fa-fw fa-films"
       url: "https://letterboxd.com/mostlystardust/"
-      - label: "Blog"
+    - label: "Blog"
       icon: "fab fa-fw fa-blogger"
       url: "https://avialandpoutine.blogspot.com/"
   since: "2013"
