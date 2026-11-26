@@ -134,6 +134,9 @@ author:
     - label: "Lichess"
       icon: "fas fa-fw fa-chess"
       url: "https://lichess.org/@/Mostlystardust_24"
+      - label: "Letterboxd"
+      icon: "fas fa-fw fa-Letterboxd"
+      url: "https://letterboxd.com/mostlystardust/"
 
 # Site Footer
 footer:
@@ -150,6 +153,9 @@ footer:
     - label: "Lichess"
       icon: "fas fa-fw fa-chess"
       url: "https://lichess.org/@/Mostlystardust_24"
+      - label: "Letterboxd"
+      icon: "fas fa-fw fa-Letterboxd"
+      url: "https://letterboxd.com/mostlystardust/"
   since: "2013"
 
 
